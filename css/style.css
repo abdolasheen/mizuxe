@@ -19,7 +19,6 @@ header {
     opacity: 0.8; }
   header .btn {
     color: white;
-    border-radius: 0px;
     font-size: 1.4rem; }
   header .btn-outline-secondary {
     border-color: white; }
@@ -51,3 +50,38 @@ header {
   width: 50%;
   border-bottom: 1px solid #ddd;
   margin: 0 auto; }
+
+#meetTheAuthor .meet {
+  color: #3292a6; }
+
+#meetTheAuthor .meet-the-author-head {
+  width: 50%;
+  margin: 0 auto; }
+
+#meetTheAuthor img {
+  margin-top: -50px; }
+
+#meetTheAuthor h5 {
+  color: #555; }
+
+#meetTheAuthor .fa {
+  font-size: 25px;
+  color: #3292a6; }
+
+#meetTheAuthor .card:hover {
+  background: #3292a6;
+  color: white; }
+  #meetTheAuthor .card:hover .fa {
+    color: white; }
+
+#formSection input:active {
+  border-color: red; }
+
+#formSection span {
+  width: 50px; }
+  #formSection span .fa {
+    margin: auto; }
+
+#fotter {
+  color: #fff;
+  background: #3292a6; }
